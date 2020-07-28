@@ -1,4 +1,11 @@
 ### Hi there 👋
+- Olá, me chamo Tulio Marcos, sou técnico em informática e estudante de Sistemas de Informação no [IFF de Itaperuna](https://www.facebook.com/IFFluminenseItaperuna).
+- Gosto de desenvolver para Android, e atualmente estou estudando web.
+- Caso queira entrar em contato:
+
+
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/whoistulio)](https://twitter.com/whoistulio)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tuliodutra27)](https://www.linkedin.com/in/tuliodutra27)
 
 <!--
 **tuliodutra27/tuliodutra27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
