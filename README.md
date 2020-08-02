@@ -1,5 +1,5 @@
 ### Hi there 👋
-- Olá, me chamo Tulio Marcos, sou técnico em informática e estudante de Sistemas de Informação no [IFF de Itaperuna](https://www.facebook.com/IFFluminenseItaperuna).
+- Olá, me chamo Tulio Marcos, sou técnico em informática e estudante de Sistemas de Informação no [IFF de Itaperuna](http://portal1.iff.edu.br/nossos-campi/itaperuna).
 - Gosto de desenvolver para Android, e atualmente estou estudando web.
 - Caso queira entrar em contato:
 
