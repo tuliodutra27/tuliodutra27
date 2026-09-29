@@ -1,10 +1,10 @@
 # Olá, eu sou o Tulio 👋
 
 Técnico de TI na **AliseoSA** (Porto do Açu, RJ). Uso código para automatizar tarefas e melhorar os
-procedimentos da empresa: plugins para o GLPI, sistemas web internos integrados ao Active Directory
-e um homelab onde testo e hospedo tudo isso.
+procedimentos da empresa, como os plugins para o GLPI, e mantenho um homelab onde testo e hospedo
+meus projetos.
 
-- 🏢 Atualmente: automação de processos de TI, RH e operação na AliseoSA
+- 🏢 Atualmente: automação de processos de TI na AliseoSA
 - 🛠️ Dia a dia: Python (Flask, FastAPI), PHP, SQL, Docker, PowerShell e Bash
 - 🖥️ Infra: Windows Server (AD/GPO), Linux, redes, GLPI, Zabbix + Grafana, Proxmox
 - 🌐 Portfólio: [tuliodutra27.is-a.dev](https://tuliodutra27.is-a.dev)
@@ -16,15 +16,6 @@ e um homelab onde testo e hospedo tudo isso.
 ---
 
 ## 🚀 Projetos recentes
-
-### Sistemas internos (AliseoSA)
-
-| Projeto | O que faz | Stack |
-|---|---|---|
-| [**bus.io**](https://github.com/tuliodutra27/bus.io) | Gestão de assentos dos ônibus fretados até o Porto do Açu: ocupação em tempo real, mapa de assentos, fluxo de hora extra e ciclo de turnos A/B/C/D | FastAPI · SQLAlchemy · MySQL · HTMX · Alpine.js · Tailwind · LDAP |
-| [**Indicadores RH**](https://github.com/tuliodutra27/Indicadores-RH) | Compara as planilhas semanais do RH e detecta admissões, desligamentos e mudanças de cargo/gestor, com relatório em Excel | Flask · pandas · Gunicorn · Docker · LDAP/AD |
-| [**CFTV Design**](https://github.com/tuliodutra27/CFTV-Design) | Plataforma para projetar ~350 câmeras sobre imagem de drone de 200 mil m², com azimute, FOV e alcance de cada câmera | Next.js · TypeScript · react-konva · Prisma · PostgreSQL |
-| [**GLPI AI Chat**](https://github.com/tuliodutra27/GLPI-AI-Chat) | Assistente de IA no WhatsApp que conversa com o usuário, consulta a base de conhecimento e abre o chamado já categorizado no GLPI | n8n · Ollama · Evolution API · Redis · GLPI API |
 
 ### Plugins para GLPI
 
@@ -41,7 +32,6 @@ e um homelab onde testo e hospedo tudo isso.
 | [**HomeLab**](https://github.com/tuliodutra27/HomeLab) | Servidor caseiro com Tailscale, AdGuard Home, Nginx Proxy Manager e CasaOS, hospedando meus apps em containers | Ubuntu Server · Docker · Tailscale |
 | [**uniasselvi-sjb**](https://github.com/tuliodutra27/uniasselvi-sjb) | Gestão de leads, matrículas e mensalidades do polo EAD de São João da Barra | Flask · SQLite · pandas · Bootstrap |
 | [**Acompanhamento de Finanças**](https://github.com/tuliodutra27/Acompanhamento-Financas) | PWA que lê o QR Code da NFC-e e mostra gastos de mercado item a item ao longo dos meses | FastAPI · React · Vite · Docker |
-| [**Projeto Transparência**](https://github.com/tuliodutra27/Projeto-Transparencia) | Coleta e visualiza as contas públicas de São João da Barra a partir da API do SICONFI | Python · pandas · Streamlit |
 | [**climatempo-sjb**](https://github.com/tuliodutra27/climatempo-sjb) | Painel de previsão do tempo para São João da Barra | FastAPI · Jinja2 · Docker |
 
 ---
