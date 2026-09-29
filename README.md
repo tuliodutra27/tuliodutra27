@@ -15,6 +15,15 @@ meus projetos.
 
 ---
 
+## 🎓 Formação
+
+| Curso | Situação |
+|---|---|
+| Análise e Desenvolvimento de Sistemas | Em conclusão — 6º de 6 períodos |
+| Engenharia de Software | Cursando — 4º de 8 períodos |
+
+---
+
 ## 🚀 Projetos recentes
 
 ### Plugins para GLPI
